@@ -166,7 +166,7 @@ def predict(file, centroids, cluster_to_class):
 
 
 
-st.title("🧠 Brain Tumor Detection - K-Means PRO")
+st.title("🧠 Brain Tumor Detection -- K-Means PRO")
 
 centroids, cluster_to_class, X, labels = train_model()
 
@@ -182,4 +182,3 @@ if uploaded:
     prediction = predict(uploaded, centroids, cluster_to_class)
 
     st.success(f"Prediction: {prediction}")
-
