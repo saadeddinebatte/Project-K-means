@@ -1,1 +1,1 @@
-Conception d’un modèle de clustering basé sur l’algorithme K-means pour l’identification de la nature des tumeurs (bénignes ou malignes) à partir de données médicales.
+Ce projet consiste à concevoir un modèle de clustering non supervisé basé sur l’algorithme K-means afin d’identifier la nature des tumeurs (bénignes ou malignes) à partir de données médicales. Les résultats obtenus sont ensuite représentés et explorés via une interface graphique interactive développée avec Streamlit.
